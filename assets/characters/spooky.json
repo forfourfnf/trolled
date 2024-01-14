@@ -3,107 +3,87 @@
 		{
 			"loop": false,
 			"offsets": [
-				59,
-				-20
+				90,
+				362
 			],
-			"anim": "hey",
+			"anim": "idle",
 			"fps": 24,
-			"name": "spooky kids YEAH!!",
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				130,
-				-10
+				48,
+				334
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "note sing left",
+			"name": "left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-130,
-				-14
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "spooky sing right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-50,
-				-130
+				22,
+				85
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "spooky DOWN note",
+			"name": "down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				98,
+				348
 			],
-			"fps": 12,
-			"anim": "danceLeft",
-			"indices": [
-				0,
-				2,
-				6
-			],
-			"name": "spooky dance idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"fps": 12,
-			"anim": "danceRight",
-			"indices": [
-				8,
-				10,
-				12,
-				14
-			],
-			"name": "spooky dance idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-20,
-				26
-			],
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "spooky UP NOTE"
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				312
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				460
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spooky_kids_assets",
+	"image": "characters/shadow",
 	"position": [
 		0,
-		200
+		350
 	],
-	"healthicon": "spooky",
+	"healthicon": "shadow",
 	"flip_x": false,
 	"healthbar_colors": [
-		213,
-		126,
-		0
+		40,
+		40,
+		40
 	],
 	"camera_position": [
-		0,
-		0
+		170,
+		-200
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.9
 }
