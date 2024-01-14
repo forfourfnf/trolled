@@ -10143,7 +10143,7 @@
 		"sliderVelocities": null,
 		"song": "No-Villains",
 		"needsVoices": true,
-		"stage": "hill",
+		"stage": "stage",
 		"validScore": true,
 		"bpm": 200,
 		"speed": 3.1

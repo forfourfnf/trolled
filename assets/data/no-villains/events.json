@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "stage",
+		"player1": "bf-better",
+		"player2": "sonic",
+		"player3": null,
+		"events": [
+			[
+				63225,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic-mad"
+					]
+				]
+			],
+			[
+				65625,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic"
+					]
+				]
+			],
+			[
+				86325,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic-mad"
+					]
+				]
+			],
+			[
+				105525,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic-forced"
+					]
+				]
+			],
+			[
+				124725,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic-mad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "no-villains"
+	}
+}

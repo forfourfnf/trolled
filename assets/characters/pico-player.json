@@ -1,122 +1,133 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				3,
-				0
+				90,
+				502
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Pico Idle Dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				21,
-				27
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "pico Up note0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				84,
-				-80
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Pico Down Note0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				80,
-				-38
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "Pico Down Note MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				28,
-				67
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "pico Up note miss",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-48,
-				2
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Pico Note Right0"
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				85,
-				-10
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Pico NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-45,
-				50
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Pico Note Right Miss"
-		},
-		{
-			"offsets": [
-				83,
-				28
+				118,
+				504
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "Pico NOTE LEFT miss"
+			"name": "left miss"
+		},
+		{
+			"offsets": [
+				690,
+				1180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down miss"
+		},
+		{
+			"offsets": [
+				-52,
+				482
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up miss"
+		},
+		{
+			"offsets": [
+				130,
+				502
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right miss"
+		},
+		{
+			"offsets": [
+				22,
+				465
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down anim"
+		},
+		{
+			"offsets": [
+				-52,
+				482
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up anim"
+		},
+		{
+			"offsets": [
+				130,
+				502
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right anim"
+		},
+		{
+			"offsets": [
+				118,
+				504
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left anim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				490
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "cough",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/bfCar",
 	"position": [
 		0,
-		300
+		350
 	],
-	"healthicon": "pico",
+	"healthicon": "tankman",
 	"flip_x": true,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		60,
+		20,
+		20
 	],
 	"camera_position": [
-		220,
-		0
+		170,
+		-390
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.9
 }

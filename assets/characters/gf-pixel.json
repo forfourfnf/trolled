@@ -57,12 +57,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/gfbest",
+	"image": "characters/gfPixel",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "gfbest",
+	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
 		165,

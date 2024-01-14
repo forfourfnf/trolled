@@ -1,346 +1,599 @@
 {
 	"song": {
-		"player1": "bf",
-		"song": "Bopeebo",
-		"player2": "dad",
-		"notes": [
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+		"speed": 3,
+		"stage": "spooky",
+		"player1": "bf-pixel",
+		"player2": "spooky",
+		"player3": "gf-pixel",
+		"events": [
+			[
+				16000,
+				[
 					[
-						4290,
-						-1,
-						"Hey!",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17000,
+				[
+					[
+						"Object Play Animation",
+						"tails",
+						"idle"
+					],
+					[
+						"Object Play Animation",
+						"knuckles",
+						"idle"
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				37333.3333333333,
+				[
+					[
+						"Add Camera Zoom",
 						"0",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				143333.333333333,
+				[
 					[
-						9090,
-						-1,
-						"Hey!",
-						"0",
+						"Play Animation",
+						"die",
+						"dad"
+					],
+					[
+						"Change Character",
+						"dad",
+						"monster-christmas"
+					]
+				]
+			],
+			[
+				143583.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				144500,
+				[
 					[
-						13890,
-						-1,
-						"Hey!",
-						"0",
+						"Add Camera Zoom",
+						"0.050",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				146000,
+				[
 					[
-						18690,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				146333.333333333,
+				[
 					[
-						23490,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				147500,
+				[
 					[
-						28290,
-						-1,
-						"Hey!",
-						"0",
+						"Object Play Animation",
+						"knuckles",
+						"idle"
+					],
+					[
+						"Object Play Animation",
+						"tails",
+						"idle"
+					]
+				]
+			],
+			[
+				148000,
+				[
+					[
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				148333.333333333,
+				[
 					[
-						33090,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				148666.666666667,
+				[
 					[
-						37890,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				149000,
+				[
 					[
-						42690,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				150166.666666667,
+				[
 					[
-						47490,
-						-1,
-						"Hey!",
-						"0",
+						"Object Play Animation",
+						"tails",
+						"idle"
+					],
+					[
+						"Object Play Animation",
+						"knuckles",
+						"idle"
+					]
+				]
+			],
+			[
+				151333.333333333,
+				[
+					[
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				151666.666666667,
+				[
 					[
-						52290,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				152500,
+				[
 					[
-						57090,
-						-1,
-						"Hey!",
-						"0",
+						"Object Play Animation",
+						"tails",
+						"idle"
+					],
+					[
+						"Object Play Animation",
+						"knuckles",
+						"idle"
+					]
+				]
+			],
+			[
+				152666.666666667,
+				[
+					[
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				153000,
+				[
 					[
-						61890,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				153333.333333333,
+				[
 					[
-						66690,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				153583.333333333,
+				[
 					[
-						71490,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				153833.333333333,
+				[
 					[
-						76290,
-						-1,
-						"Hey!",
-						"0",
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 100,
-				"changeBPM": false,
-				"mustHitSection": true
-			}
+				]
+			],
+			[
+				154000,
+				[
+					[
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154333.333333333,
+				[
+					[
+						"Dodge",
+						"",
+						""
+					],
+					[
+						"Failed Dodge",
+						"",
+						""
+					]
+				]
+			],
+			[
+				155583.333333333,
+				[
+					[
+						"Object Play Animation",
+						"tails",
+						"idle"
+					],
+					[
+						"Object Play Animation",
+						"knuckles",
+						"idle"
+					]
+				]
+			],
+			[
+				165333.333333333,
+				[
+					[
+						"Play Animation",
+						"die",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				165416.666666667,
+				[
+					[
+						"Object Play Animation",
+						"knuckles",
+						"shootded"
+					],
+					[
+						"Object Play Animation",
+						"tails",
+						"shootded"
+					]
+				]
+			],
+			[
+				165500,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				165583.333333333,
+				[
+					[
+						"set health",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				165750,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				165833.333333333,
+				[
+					[
+						"set health",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				166000,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166083.333333333,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166166.666666667,
+				[
+					[
+						"set health",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				166333.333333333,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166416.666666667,
+				[
+					[
+						"set health",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				166583.333333333,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166666.666666667,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166750,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				166833.333333333,
+				[
+					[
+						"set health",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				166916.666666667,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				167000,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			],
+			[
+				167083.333333333,
+				[
+					[
+						"set health",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				167250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
 		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 180,
+		"arrowSkin": "",
 		"needsVoices": true,
-		"validScore": true,
-		"bpm": 100,
-		"speed": 1.3
+		"song": "Bopeebo"
 	}
 }

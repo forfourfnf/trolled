@@ -9258,10 +9258,10 @@
 			}
 		],
 		"gfVersion": "gf-pixel",
-		"player3": null,
+		"player3": "gf-pixel",
 		"splashSkin": "noteSplashes",
 		"song": "Bopeebo",
-		"stage": "hill",
+		"stage": "stage",
 		"validScore": true,
 		"arrowSkin": "",
 		"needsVoices": true,
