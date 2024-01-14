@@ -8,42 +8,8 @@
 				255,
 				93
 			]
-		[
-			"no-villains",
-			"dad",
-			[
-				0,
-				80,
-				255
-			]
 		]
-				[
-			"Bopeebo",
-			"spooky",
-			[
-				0,
-				80,
-				255
-			]
-		],
-		[
-			"Fresh",
-			"pico",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Dad Battle",
-			"monster",
-			[
-				146,
-				113,
-				253
-			]
-		]
+	],
 	"hideFreeplay": false,
 	"weekBackground": "",
 	"weekCharacters": [
@@ -51,8 +17,8 @@
 		"bf",
 		"gf"
 	],
-	"storyName": "port by claus296, additions by forfourfnf",
-	"weekName": "Week 1",
+	"storyName": "port by claus296",
+	"weekName": "chapter 1",
 	"freeplayColor": [
 		146,
 		113,
